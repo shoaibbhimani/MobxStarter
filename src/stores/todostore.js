@@ -1,5 +1,4 @@
-import { extendObservable, action, observable } from 'mobx'
-
+import { extendObservable, action } from 'mobx'
 import devtools from 'mobx-remotedev/lib'
 
 class Todos {
